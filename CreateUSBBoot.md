@@ -32,11 +32,11 @@ Now you have a bootable USB on windows. Here's the steps in a more detailed way:
 
 ## Extra Information
 
-*What is the minimum size for my bootable USB?*     
-*-The recommended minimum size for the USB drive is 8GB.*
+**What is the minimum size for my bootable USB?**    
+-The recommended minimum size for the USB drive is 8GB.
 
-*Can you do multiple boots from on key?*     
+**Can you do multiple boots from on key?**      
 -Yes you can. It isn't recommended to put many of them on a singular one because it can cause issues.
 
-*Here's some other software you can use to make a bootable USB:*      
+**Here's some other software you can use to make a bootable USB:**      
 UNetbootin, Balena Etcher, Ventoy and Yumi
