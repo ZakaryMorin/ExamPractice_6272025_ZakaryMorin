@@ -9,7 +9,7 @@ Start the process and wait until it is done.
 You should now have a bootable USB. If it doesn't work, do the steps again or re-install the tool and the ISO file.    
 
 Here's a link explaining the steps on rufus:    
-https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#2-requirements    
+[Ubuntu Rufus Bootable USB](https://ubuntu.com/tutorials/create-a-usb-stick-on-windows#2-requirements)             
 
 
 ## *2:Using diskpart*
@@ -27,8 +27,8 @@ FORMAT FS=NTFS      - Can take a bit of time
 ASSIGN          - This will assign a drive letter    
 EXIT           - To leave "DiskPart"
 
-Now you have a bootable USB on windows. Here's the steps in a more detailed way:
-https://www.dell.com/support/kbdoc/en-ca/000136959/create-a-bootable-usb-flash-drive-using-the-diskpart-utility 
+Now you have a bootable USB on windows. Here's the steps in a more detailed way:        
+[Dell diskpart bootable USB](https://www.dell.com/support/kbdoc/en-ca/000136959/create-a-bootable-usb-flash-drive-using-the-diskpart-utility)
 
 ## Extra Information
 
